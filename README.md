@@ -19,9 +19,3 @@
 *   🔗 **LinkedIn:** [Rayen Ghali](https://www.linkedin.com/in/rayen-ghali-63718b1a5/)
 *   ✉️ **Email:** [rayenghali02@gmail.com](mailto:rayenghali02@gmail.com)
 *   📚 **Google Scholar:** [Rayen Ghali](https://scholar.google.ca/citations?hl=en&user=YgKcbkoAAAAJ)
-
----
-
-<p align="center">
-  Thanks for visiting my profile!
-</p>
