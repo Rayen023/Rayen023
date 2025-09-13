@@ -5,7 +5,7 @@
 *   🧠 **Focus Areas:** Computer Vision, Generative AI, and Embodied AI.
 *   🎓 **Current Status:** Pursuing a Master of Applied Science (M.Sc.A. / *maîtrise ès sciences appliquées*) at the **University of Moncton**.
 *   🔬 **Thesis Research:** My work centers on the integration of **Vision-Language-Action (VLA) Models** with **Kuka robotic systems**, exploring how robots can understand instructions and perform tasks in complex environments based on multimodal inputs.
-*   📄 **CV:** [Rayen Ghali — CV (PDF)](https://github.com/Rayen023/CV/blob/main/Rayen_ghali_cv.pdf)
+*   📄 **Resume:** [Rayen Ghali — Resume (PDF)](https://github.com/Rayen023/CV/blob/main/Rayen_ghali_cv.pdf)
 
 ---
 
