@@ -11,7 +11,7 @@
 
 ### 🎓 Education 
 *   **Master of Applied Sciences** - University of Moncton, Canada
-*   **Engineering Diploma in Instrumentation and Intelligent Systems** - National Institute of Applied Science and Technology (INSAT), Tunisia
+*   **Industrial and Systems Engineering** - National Institute of Applied Science and Technology (INSAT), Tunisia
 
 ---
 
