@@ -4,7 +4,6 @@
 
 - 💻 Software Developer at **MedCockpit**, August 2026 - Present.
 - 🔬 Applied AI Research Assistant at **LARIHS, University of Moncton**, April 2023 - August 2026.
-
 - 🧠 **Focus Areas:** Computer Vision, Generative AI, and Embodied AI.
 - 🌐 **Portfolio:** [rayenghali.com](https://rayenghali.com)
 - 📄 **Resume:** [Rayen Ghali — Resume (PDF)](https://github.com/Rayen023/Resume/blob/main/Rayen_ghali_resume.pdf)
